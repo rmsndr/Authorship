@@ -1,3 +1,6 @@
+#The project involves data preprocessing, preparation, nonlinear statistical model fitting & validation using 
+#maximum likelihood ratio test. The project aims at business use case creation & actionable recommendations to 
+#increase the IT contract renewal conversion rate using R programming.
 
 models<-function(par,x1,x2,x3,y1,temp, par_def, par_int, int_ctr, var_pos ) {
   #dim returns
